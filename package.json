@@ -11,8 +11,8 @@
     "url": "git+https://github.com/earthfor/getproxy.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "earthfor",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/earthfor/getproxy/issues"
   },
