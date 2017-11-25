@@ -17,7 +17,5 @@
     "url": "https://github.com/earthfor/getproxy/issues"
   },
   "homepage": "https://github.com/earthfor/getproxy#readme",
-  "dependencies": {
-    "koa": "^2.4.1"
-  }
+  "dependencies": {}
 }
