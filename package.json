@@ -4,6 +4,7 @@
   "description": "Auto get proxy",
   "main": "index.js",
   "scripts": {
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/earthfor/getproxy/issues"
   },
-  "homepage": "https://github.com/earthfor/getproxy#readme"
+  "homepage": "https://github.com/earthfor/getproxy#readme",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
 }
