@@ -4,7 +4,8 @@
   "description": "Auto get proxy",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "test": "node test/index"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,7 @@
     "url": "https://github.com/earthfor/getproxy/issues"
   },
   "homepage": "https://github.com/earthfor/getproxy#readme",
-  "dependencies": {}
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
 }
